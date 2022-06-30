@@ -1,7 +1,8 @@
-import java.util.Scanner;
-
 public class homework1 {
     public static void main(String[] args){
+        /*
+        Кучмель Павел
+         */
         //Begin12. Даны катеты прямоугольного треугольника a и b.
         //Найти его гипотенузу c и периметр P: c = √a^2 + b^2, P = a + b + c
         /*
@@ -185,6 +186,5 @@ public class homework1 {
         a1=a*a1;
         System.out.println("A^15="+a1);
          */
-
     }
 }
